@@ -8,8 +8,6 @@
 
 [![Coding](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE6AQGKRJG8SWAIDUS7N/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDVvnuhArsvNgM/coding-freak.gif)](https://github.com/karthikeyan-lu)
 
-[![Profile views](https://komarev.com/ghpvc/?username=karthikeyan-lu&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/karthikeyan-lu)
-
 - 🎓 Currently enrolled in **AI Academy @ DLH Luxembourg**
 - 🚀 Backend Engineer with **15+ years experience** (Ruby on Rails → Python ecosystem) | Building modern Python systems with AI/ML integration
 - 🛠️ Working with: **FastAPI · Django · React · Node.js · Cloud · Data & AI**
@@ -81,4 +79,4 @@
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/karthikeyan-lu)
 
-⭐ Senior backend engineer evolving into modern Python, cloud, and AI-enabled systems — rooted in Luxembourg 🇱🇺
+⭐ Senior backend engineer evolving into modern Python, cloud, and AI-enabled systems
