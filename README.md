@@ -74,12 +74,11 @@
 
 ## 📊 GitHub Stats
 
-[![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikeyan-lu&theme=github_dark)](https://github.com/karthikeyan-lu)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan-lu&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)](https://github.com/karthikeyan-lu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-lu&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)](https://github.com/karthikeyan-lu)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan-lu&show_icons=true&theme=dark&hide_border=true)](https://github.com/karthikeyan-lu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-lu&layout=compact&theme=dark&hide_border=true)](https://github.com/karthikeyan-lu)
+[![GitHub Streak](https://streak-stats.demolab.com?user=karthikeyan-lu&theme=dark&hide_border=true)](https://github.com/karthikeyan-lu)
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/karthikeyan-lu)
 
 ⭐ Senior backend engineer evolving into modern Python, cloud, and AI-enabled systems — rooted in Luxembourg 🇱🇺
-
